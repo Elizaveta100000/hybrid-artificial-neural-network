@@ -1,0 +1,11 @@
+E:\Diploma\NeuronNetwork\ImageEXcs\bin\Debug\ImageEXcs.dll
+E:\Diploma\NeuronNetwork\ImageEXcs\bin\Debug\ImageEXcs.pdb
+E:\Diploma\NeuronNetwork\ImageEXcs\obj\Debug\ImageEXcs.csproj.CoreCompileInputs.cache
+E:\Diploma\NeuronNetwork\ImageEXcs\obj\Debug\ImageEXcs.dll
+E:\Diploma\NeuronNetwork\ImageEXcs\obj\Debug\ImageEXcs.pdb
+E:\Diploma\NeuronNetwork\ImageEXcs\obj\Debug\ImageEXcs.csprojAssemblyReference.cache
+E:\Diploma\диплом\NeuronNetworkХУЙНЯ\ImageEXcs\bin\Debug\ImageEXcs.dll
+E:\Diploma\диплом\NeuronNetworkХУЙНЯ\ImageEXcs\bin\Debug\ImageEXcs.pdb
+E:\Diploma\диплом\NeuronNetworkХУЙНЯ\ImageEXcs\obj\Debug\ImageEXcs.csproj.CoreCompileInputs.cache
+E:\Diploma\диплом\NeuronNetworkХУЙНЯ\ImageEXcs\obj\Debug\ImageEXcs.dll
+E:\Diploma\диплом\NeuronNetworkХУЙНЯ\ImageEXcs\obj\Debug\ImageEXcs.pdb
